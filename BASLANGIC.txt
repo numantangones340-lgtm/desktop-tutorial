@@ -1,0 +1,9 @@
+1) Finder acin.
+2) /Users/numantangones/Documents/GuitarAmpRecorder klasorune girin.
+3) CALISTIR.command dosyasina cift tiklayin (veya Terminal'de ./GuitarAmpRecorder/CALISTIR.command).
+4) Bu surum pencere acmaz; Terminal uzerinden size sorular sorar.
+5) Backing dosya yolunu verin, ayarlari girin, kayit otomatik yapilsin.
+
+Not:
+- MP3 icin ffmpeg gerekir.
+- ffmpeg yoksa sonuc WAV olarak Masaustu'ne kaydedilir.
